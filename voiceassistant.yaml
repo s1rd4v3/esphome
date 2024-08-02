@@ -45,7 +45,7 @@ ota:
     id: ota_http_request
 
 dashboard_import:
-  package_import_url: github://s1rd4v3/esphome/voiceassistant.yaml@v1
+  package_import_url: github://s1rd4v3/esphome/voiceassistant.yaml@vmain
   import_full_config: false # or true
 
 update:
